@@ -1,7 +1,7 @@
 # Site settings
-title: Reia Consulting
+title: TFA Services
 email: reiaconsultingptyltd@gmail.com
-description: Reia Consulting Website
+description: TFA Consulting Website
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
