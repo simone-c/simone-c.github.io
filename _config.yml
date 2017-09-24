@@ -1,12 +1,12 @@
 # Site settings
 title: TFA Services
-email: reiaconsultingptyltd@gmail.com
+email: tfaservices@info.com.au
 description: TFA Consulting Website
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
-twitter_username:
-github_username:
+phone_number: 
+wechat_id: 
 
 # Build settings
 markdown: kramdown
