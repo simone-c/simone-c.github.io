@@ -5,8 +5,8 @@ description: TFA Consulting Website
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
-phone_number: 
-wechat_id: 
+phone_number: (+61)413-795-916
+wechat_id: Ximeng11111
 
 # Build settings
 markdown: kramdown
